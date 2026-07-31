@@ -1,0 +1,13 @@
+name = "Test101"
+author = "DimPandora"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "025601f14da1c9475072478859b3859e96d65f0f026f82aebb19a2cbd3b137bf"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.1"
