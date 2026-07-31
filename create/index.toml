@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "e7c0308fafdeb7757cfd49b163c06c1ce8d9dae6715f7c6181c98ed4a2d2ae06"
+hash = "f47d813d4e660fc323416a5ba80ca372ee1e76069f85b3bfc28babb9ead88eb8"
 
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
