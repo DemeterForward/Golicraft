@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md "
-hash = "c25d25709c9c119d2c23fd4b8509d2b107524cefe4ff8fca5842e0636029189f"
+file = "README.md"
+hash = "5bde26d4ec87e52c0987545568fed369a037e4bb656bdcda67e9a32d1df74d9a"
 
 [[files]]
 file = "mods/accessories.pw.toml"
