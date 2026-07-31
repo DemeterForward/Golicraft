@@ -1,4 +1,4 @@
-name = "Test101"
+name = "Magic"
 author = "DimPandora"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "025601f14da1c9475072478859b3859e96d65f0f026f82aebb19a2cbd3b137bf"
+hash = "4889ce8da91e4620a55c4c8d5cc857295c9561bc57d1a2d6f708c060af4188b8"
 
 [versions]
-fabric = "0.19.3"
 minecraft = "1.21.1"
+neoforge = "21.1.247"

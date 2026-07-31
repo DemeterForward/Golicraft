@@ -1,0 +1,120 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md "
+hash = "c25d25709c9c119d2c23fd4b8509d2b107524cefe4ff8fca5842e0636029189f"
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
+metafile = true
+
+[[files]]
+file = "mods/additional-rpg-jewelry.pw.toml"
+hash = "62d3cf629a5edba7e4bd7d2eeb8b87c2989758e540658cff9fbd2437754d4431"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "b3fd9ed67784f143014d3d53826614eef8cc22f1d0ed3e339a4d848aff4c11bd"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "6d41410afc14800f59efe4ed0d085cd32b1b2a47d17dfe47382d7ac44c8c3e99"
+metafile = true
+
+[[files]]
+file = "mods/apothic-enchanting.pw.toml"
+hash = "87045cf0333e6728cfcfb2c026c794436097e573c607906d4a830134b41b6384"
+metafile = true
+
+[[files]]
+file = "mods/apothic-spawners.pw.toml"
+hash = "e3cf8a1207e85580723e384bf59688be26b80373b49c1d64972528cdc0dcac6d"
+metafile = true
+
+[[files]]
+file = "mods/archers.pw.toml"
+hash = "741c0856c461e745d7d9d691e0e246b51f5728bd0b471543b5ac58df09c9dd7a"
+metafile = true
+
+[[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "86cd6395d41e52dccd3a428f5c1ee72b000ff202a818a9b34e55d2f9d8d66419"
+metafile = true
+
+[[files]]
+file = "mods/elemental-wizards-rpg.pw.toml"
+hash = "61086e61aa5ff7968b71c1e49f367672818c9b98eea2ef44f149ed07d4eb5327"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "bdc751ad0e632ae3b25839d12bd5d548f575719baf61767b5ab64aa99d120ccc"
+metafile = true
+
+[[files]]
+file = "mods/jewelry.pw.toml"
+hash = "b6f82ff4751fbc4be720a8da551b6853eea0611dfd50d10d9b2414833d6ea49f"
+metafile = true
+
+[[files]]
+file = "mods/more-rpg-library.pw.toml"
+hash = "db57f8afe58c206e7516e147a572393ef283cf06056bda9f07102e27d47ac2e7"
+metafile = true
+
+[[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "a1b6df801195f130a65fca1be2bd2d20e50ec27fcada267f6c18f10a258eea05"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "2f9f0f8c05ce7e410a70cfed595e623fe8031df89a8a9ba9a8aaaa419eb4d18b"
+metafile = true
+
+[[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "c0014740246a7e9427afe968d43e129f4d21b899e0e04fa036bab758bc11f713"
+metafile = true
+
+[[files]]
+file = "mods/rogues-and-warriors.pw.toml"
+hash = "5c937bc2d1c48f2c9af5962fe83ad55b78cdeb00e8c5b801cc609c66d980f2f8"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "bcae679765144e82a8b181be8173bc088ca431e1573ecb170b9898430a4b67cd"
+metafile = true
+
+[[files]]
+file = "mods/shield-api.pw.toml"
+hash = "08f35f067c7a764a894254a8e5c790a8de5e03f21fcff2875a14a31f16b6627a"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "e9d4e65252b6fc54577a4a792352d4dba86f77de91f62c6c793113b8e8831640"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "2692737dde2f76fb308177849db90edeb2dd49655daaba4f35adf9106c6c6e10"
+metafile = true
+
+[[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "1e29968c1d8f6c6ff9de68ceb1f4a477fbf2ebd404ccf6ed59e8c9c2c4285d95"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "9f5beb3b9697cd7b932158444ed802a574271899091b70c99af6029b00e94f7e"
+metafile = true
