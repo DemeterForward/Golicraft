@@ -3,14 +3,20 @@
 <pre>
 modules
 ├── create
-│   └── mods
+│   └── NeoForge
+│       └── 1.21.1
+│           └── mods
 ├── food
-│   ├── 1.20.1
-│   │   └── mods
-│   └── 1.21.1
-│       └── mods
+│   ├── Fabric
+│   │   └── 1.20.1
+│   │       └── mods
+│   └── NeoForge
+│       └── 1.21.1
+│           └── mods
 ├── magic
-│   └── mods
+│   └── NeoForge
+│       └── 1.21.1
+│           └── mods
 └── storage
     └── mods
 </pre>
