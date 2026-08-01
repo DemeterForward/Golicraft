@@ -1,4 +1,5 @@
 # The public repo for the Golicraft modpack
+<pre>
 ├── create  
 │   ├── index.toml  
 │   ├── mods  
@@ -54,3 +55,4 @@
 │   │   └── wizards.pw.toml  
 │   ├── pack.toml  
 │   └── README.md  
+</pre>
