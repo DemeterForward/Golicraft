@@ -56,6 +56,11 @@ hash = "86cd6395d41e52dccd3a428f5c1ee72b000ff202a818a9b34e55d2f9d8d66419"
 metafile = true
 
 [[files]]
+file = "mods/bard-more-rpg-classes.pw.toml"
+hash = "17259ec1204dfdfebf59e3b143a2cffd275aca4333cfda11029da8192255f46c"
+metafile = true
+
+[[files]]
 file = "mods/berserker-rpg-class.pw.toml"
 hash = "d29e43039161cac96cee76f0b4bda1f14d93513de0f9a3fd2074e75006e45837"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/critical-strike.pw.toml"
 hash = "8f7ec1d22f09c9a78d88a13763e4e780f6111e45685f8147e7afd6e49aea4a5c"
+metafile = true
+
+[[files]]
+file = "mods/druids.pw.toml"
+hash = "3166f07901ac26f424b06999434e893a7d9f509c5522687da16cfc725eb3ce1b"
 metafile = true
 
 [[files]]
