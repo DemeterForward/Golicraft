@@ -51,18 +51,8 @@ hash = "7fa962c3eeb39b809be04b7d0185e8b92ee66423fad3da4abb83e7c688602dc4"
 metafile = true
 
 [[files]]
-file = "mods/recipe-modification.pw.toml"
-hash = "fcc5142f8aa8a7c0d9d26dcfd5727f3cf046bd2f1def594ef74e969df48cef9a"
-metafile = true
-
-[[files]]
 file = "mods/seed-delight.pw.toml"
 hash = "920221401fac7abc0c2d76c8970ff036964eafec746808d22018106c037d815b"
-metafile = true
-
-[[files]]
-file = "mods/vegan-delight.pw.toml"
-hash = "2db93afe3bf4cbcfee9025495c50bad07c5984012c57378271ba29a5775b4c05"
 metafile = true
 
 [[files]]
