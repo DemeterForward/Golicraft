@@ -101,6 +101,11 @@ hash = "db57f8afe58c206e7516e147a572393ef283cf06056bda9f07102e27d47ac2e7"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "a1b6df801195f130a65fca1be2bd2d20e50ec27fcada267f6c18f10a258eea05"
 metafile = true
