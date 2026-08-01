@@ -18,7 +18,9 @@ modules
 │       └── 1.21.1
 │           └── mods
 └── storage
-    └── mods
+    └── NeoForge
+        └── 1.21.1
+            └── mods
 </pre>
 ---
 ### Modules are created and exported using [packwiz](https://packwiz.infra.link/).
