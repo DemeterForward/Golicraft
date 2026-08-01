@@ -1,0 +1,13 @@
+name = "Food"
+author = "DimPandora"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a42ecf92a001f2109b378f1f0f05aad26a137d36ddd187a59b2f15a98578c40a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.247"

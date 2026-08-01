@@ -1,0 +1,13 @@
+name = "Food"
+author = "DimPandora"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c4dfd5482db48f2a239212efc90b3da42505c58b7b5c8f075b6051aa96487665"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.20.1"

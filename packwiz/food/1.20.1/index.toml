@@ -1,0 +1,26 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "c169e427c31fb1a75e3b59681c5a42504859b6dc0cedf226868c28515f5bfe81"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "0f6f3fd47bcc2ceb48037121a2691d2af6478a5a2f0b8c78c7287f41442059da"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "6e8a069fbe68b69b2ab2a73a38a515d37bdb7634a1a980ee9a13767046d1bab0"
+metafile = true
+
+[[files]]
+file = "mods/more-delight.pw.toml"
+hash = "a416ecc5a57ee35348dcc8b69995211bd0bf5fcb63d0a5fab2bc911ea7efcea2"
+metafile = true
