@@ -25,6 +25,11 @@ hash = "6d41410afc14800f59efe4ed0d085cd32b1b2a47d17dfe47382d7ac44c8c3e99"
 metafile = true
 
 [[files]]
+file = "mods/apothic-combat.pw.toml"
+hash = "1b48a649e684ae1b73f49676450ab123ad28c02459cf28b2bb231b9c1112ca3b"
+metafile = true
+
+[[files]]
 file = "mods/apothic-enchanting.pw.toml"
 hash = "87045cf0333e6728cfcfb2c026c794436097e573c607906d4a830134b41b6384"
 metafile = true
@@ -35,8 +40,18 @@ hash = "e3cf8a1207e85580723e384bf59688be26b80373b49c1d64972528cdc0dcac6d"
 metafile = true
 
 [[files]]
+file = "mods/archers-expansion.pw.toml"
+hash = "da13585272fb79d71a7d7665066593aba7c8a3ab40e45f0c18ac945bf92e8f1c"
+metafile = true
+
+[[files]]
 file = "mods/archers.pw.toml"
 hash = "741c0856c461e745d7d9d691e0e246b51f5728bd0b471543b5ac58df09c9dd7a"
+metafile = true
+
+[[files]]
+file = "mods/arsenal-rpg-series.pw.toml"
+hash = "3c2bb175a3b3b9d1e5d33c447a49843a4994a51d247eb595687522489648c8f1"
 metafile = true
 
 [[files]]
@@ -45,8 +60,33 @@ hash = "86cd6395d41e52dccd3a428f5c1ee72b000ff202a818a9b34e55d2f9d8d66419"
 metafile = true
 
 [[files]]
+file = "mods/berserker-rpg-class.pw.toml"
+hash = "d29e43039161cac96cee76f0b4bda1f14d93513de0f9a3fd2074e75006e45837"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "438170e7e704a1b8ed67bf0521dc5d77cdeeaabf6f729dba9f8dfdad75330acf"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/critical-strike.pw.toml"
+hash = "8f7ec1d22f09c9a78d88a13763e4e780f6111e45685f8147e7afd6e49aea4a5c"
+metafile = true
+
+[[files]]
 file = "mods/elemental-wizards-rpg.pw.toml"
 hash = "61086e61aa5ff7968b71c1e49f367672818c9b98eea2ef44f149ed07d4eb5327"
+metafile = true
+
+[[files]]
+file = "mods/forcemaster-rpg-class.pw.toml"
+hash = "d515d85273888d7a3d8f8a0941781d2546f58067233a69b64a0c73868a6c4229"
 metafile = true
 
 [[files]]
@@ -80,8 +120,18 @@ hash = "2f9f0f8c05ce7e410a70cfed595e623fe8031df89a8a9ba9a8aaaa419eb4d18b"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "c0014740246a7e9427afe968d43e129f4d21b899e0e04fa036bab758bc11f713"
+metafile = true
+
+[[files]]
+file = "mods/relics-rpg.pw.toml"
+hash = "10d3e32162d601eef892f9cecde6028ec48881999b063138b3674a45e2200b2b"
 metafile = true
 
 [[files]]
@@ -100,6 +150,16 @@ hash = "08f35f067c7a764a894254a8e5c790a8de5e03f21fcff2875a14a31f16b6627a"
 metafile = true
 
 [[files]]
+file = "mods/skill-tree.pw.toml"
+hash = "6a099772843ac68b015418084beec5b94f87da6270809c731b349f47de3d755e"
+metafile = true
+
+[[files]]
+file = "mods/skills.pw.toml"
+hash = "87ce844ff87267bc95027b95c970c58298d4a6882bb2b620551c8a309f1c8e81"
+metafile = true
+
+[[files]]
 file = "mods/spell-engine.pw.toml"
 hash = "e9d4e65252b6fc54577a4a792352d4dba86f77de91f62c6c793113b8e8831640"
 metafile = true
@@ -112,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "1e29968c1d8f6c6ff9de68ceb1f4a477fbf2ebd404ccf6ed59e8c9c2c4285d95"
+metafile = true
+
+[[files]]
+file = "mods/witcher-rpg-class.pw.toml"
+hash = "b993c3fb1a027bb2cb2afe1b03d3a2e2184b1d1218c5159a9f07b374cd400e98"
 metafile = true
 
 [[files]]
