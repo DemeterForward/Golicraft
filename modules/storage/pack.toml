@@ -1,0 +1,13 @@
+name = "Storage"
+author = "DimPandora"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "246de0f8fa8e4887231781e74c30816aca50e9bac7685f5ea92abc08559ccffe"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.247"
