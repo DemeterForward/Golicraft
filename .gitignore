@@ -1,3 +1,7 @@
+# Modpacks
 *.zip
 *.mrpack
+
+# Obsidian.md stuff
 *.obsidian
+*.trash
