@@ -1,5 +1,4 @@
-# [packwiz](https://packwiz.infra.link/)
-Packs are created and exported using packwiz.
+# Packs are created and exported using [packwiz](https://packwiz.infra.link/)
 ## Process of creating a modpack through packwiz:
 1. Create a folder *somewhere*
 2. `packwiz init`
