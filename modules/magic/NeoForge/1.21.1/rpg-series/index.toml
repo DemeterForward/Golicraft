@@ -11,31 +11,6 @@ hash = "62d3cf629a5edba7e4bd7d2eeb8b87c2989758e540658cff9fbd2437754d4431"
 metafile = true
 
 [[files]]
-file = "mods/apotheosis.pw.toml"
-hash = "b3fd9ed67784f143014d3d53826614eef8cc22f1d0ed3e339a4d848aff4c11bd"
-metafile = true
-
-[[files]]
-file = "mods/apothic-attributes.pw.toml"
-hash = "6d41410afc14800f59efe4ed0d085cd32b1b2a47d17dfe47382d7ac44c8c3e99"
-metafile = true
-
-[[files]]
-file = "mods/apothic-combat.pw.toml"
-hash = "1b48a649e684ae1b73f49676450ab123ad28c02459cf28b2bb231b9c1112ca3b"
-metafile = true
-
-[[files]]
-file = "mods/apothic-enchanting.pw.toml"
-hash = "87045cf0333e6728cfcfb2c026c794436097e573c607906d4a830134b41b6384"
-metafile = true
-
-[[files]]
-file = "mods/apothic-spawners.pw.toml"
-hash = "e3cf8a1207e85580723e384bf59688be26b80373b49c1d64972528cdc0dcac6d"
-metafile = true
-
-[[files]]
 file = "mods/archers-expansion.pw.toml"
 hash = "da13585272fb79d71a7d7665066593aba7c8a3ab40e45f0c18ac945bf92e8f1c"
 metafile = true
@@ -43,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/archers.pw.toml"
 hash = "741c0856c461e745d7d9d691e0e246b51f5728bd0b471543b5ac58df09c9dd7a"
+metafile = true
+
+[[files]]
+file = "mods/armory-rpg-series.pw.toml"
+hash = "0d5ca5045facab29bf95975f893e0b8e2e854d63291ccf6394951f62ff056bdc"
 metafile = true
 
 [[files]]
@@ -63,11 +43,6 @@ metafile = true
 [[files]]
 file = "mods/berserker-rpg-class.pw.toml"
 hash = "d29e43039161cac96cee76f0b4bda1f14d93513de0f9a3fd2074e75006e45837"
-metafile = true
-
-[[files]]
-file = "mods/better-combat.pw.toml"
-hash = "438170e7e704a1b8ed67bf0521dc5d77cdeeaabf6f729dba9f8dfdad75330acf"
 metafile = true
 
 [[files]]
@@ -118,16 +93,6 @@ metafile = true
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "a1b6df801195f130a65fca1be2bd2d20e50ec27fcada267f6c18f10a258eea05"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
-metafile = true
-
-[[files]]
-file = "mods/placebo.pw.toml"
-hash = "2f9f0f8c05ce7e410a70cfed595e623fe8031df89a8a9ba9a8aaaa419eb4d18b"
 metafile = true
 
 [[files]]

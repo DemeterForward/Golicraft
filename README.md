@@ -16,7 +16,12 @@ modules
 ├── magic
 │   └── NeoForge
 │       └── 1.21.1
-│           └── mods
+│           ├── apotheosis
+│           │   └── mods
+│           ├── better-combat
+│           │   └── mods
+│           └── rpg-series
+│               └── mods
 └── storage
     └── NeoForge
         └── 1.21.1

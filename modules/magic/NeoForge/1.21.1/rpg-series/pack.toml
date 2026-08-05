@@ -1,0 +1,13 @@
+name = "Rpg Series"
+author = "runes"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b84c71e62bd5177a4a6e79a1c04614775c9ee6dd75cb5e39b11a753d97e04091"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"

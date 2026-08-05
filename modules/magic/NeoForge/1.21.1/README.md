@@ -1,17 +1,27 @@
-Accessories  
-Additional Jewelry  
+## apotheosis  
 Apotheosis  
 Apothic Attributes  
 Apothic Combat  
 Apothic-Enchanting  
 Apothic-Spawners  
+Better Combat  
+Cloth Config API  
+Patchouli  
+Placebo  
+playerAnimator  
+## better-combat  
+Better Combat  
+Cloth Config API  
+playerAnimator  
+## rpg-seriesAccessories  
+Additional Jewelry  
 Archers (RPG Series)  
 Archers Expansion (More RPG Classes)  
+Armory (RPG Series)  
 Arsenal (RPG Series)  
 AzureLib Armor  
 Bard (RPG Series Plus)  
 Berserker (More RPG Classes)  
-Better Combat  
 Cloth Config API  
 Critical Strike  
 Druids (RPG Series Plus)  
@@ -22,8 +32,6 @@ Jewelry (RPG Series)
 More RPG Library  
 oωo (owo-lib)  
 Paladins & Priests (RPG Series)  
-Patchouli  
-Placebo  
 playerAnimator  
 Pufferfish's Skills  
 Ranged Weapon API  
