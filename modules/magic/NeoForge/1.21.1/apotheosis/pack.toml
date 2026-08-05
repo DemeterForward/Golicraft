@@ -1,13 +1,13 @@
-name = "Magic"
-author = "DimPandora"
+name = "Apotheosis"
+author = "runes"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7b82c9adc82be8a2edc1c1a12e8260df5e4393611d2cea08b6f846779a615206"
+hash = "f96c3660ef7ba39d985c462d241eef73669d28597d1ef1fe10ef8128ff4f9ef6"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.247"
+neoforge = "21.1.248"

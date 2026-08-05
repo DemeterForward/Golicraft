@@ -1,0 +1,13 @@
+name = "Better Combat"
+author = "runes"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f45f30906c8d8a715931d0fc940c8b83312a3de6e6214cd94b7989c9f999b6fb"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"
