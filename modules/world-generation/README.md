@@ -6,17 +6,22 @@
 - Biomes O' Plenty:
 	- No version for 1.20.1 NeoForge.
 	- 1.21.1 version available for Fabric, Forge and NeoForge.
+- Geophilic:
+	- 1.21.1 version available for Fabric, Forge and NeoForge.
 -  Oh The Biomes We've Gone:
 	- 1.20.1 NeoForge not updated for a long time compared to the 1.20.1 Fabric and Forge versions.
 	- 1.21.1 version available for Fabric, Forge and NeoForge.
 - Terralith:
 	- 1.20.1 version has not been updated for >2 years.
 	- Recently updated (2026-06-09) for 1.21.1 Fabric, NeoForge and datapack versions.
-- Tectonic:
-	- 1.20.1 NeoForge not updated for a long time compared to the 1.20.1 Fabric and Forge versions.
-	- 1.21.1 versions available for Fabric, NeoForge and datapack.
+- ~~Tectonic~~:
+	- ~~1.20.1 NeoForge not updated for a long time compared to the 1.20.1 Fabric and Forge versions.~~
+	- ~~1.21.1 versions available for Fabric, NeoForge and datapack.~~
+	- **Scrapped due to server instability**.
 - Nature's Spirit
 	- No version for 1.20.1 NeoForge.
+	- 1.21.1 version available for Fabric and NeoForge.
+- Streams Reflowing:
 	- 1.21.1 version available for Fabric and NeoForge.
 # THE NETHER
 # The End:
