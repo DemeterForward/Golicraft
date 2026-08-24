@@ -22,7 +22,11 @@ modules
 │           │   └── mods
 │           └── rpg-series
 │               └── mods
-└── storage
+├── storage
+│   └── NeoForge
+│       └── 1.21.1
+│           └── mods
+└── world-generation
     └── NeoForge
         └── 1.21.1
             └── mods
